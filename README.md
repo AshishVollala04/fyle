@@ -12,7 +12,7 @@ A project where I've leveraged HTML, CSS, Bootstrap, JavaScript and JQuery to cr
 
 ## Preview
 
-Check out the live demo [here](https://ashish-digital-marketing.netlify.app/)/).
+Check out the live demo [here](https://ashish-digital-marketing.netlify.app/).
 
 ## Installation
 
