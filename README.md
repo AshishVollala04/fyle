@@ -12,7 +12,7 @@ A project where I've leveraged HTML, CSS, Bootstrap, JavaScript and JQuery to cr
 
 ## Preview
 
-Check out the live demo [here](https://z3ro-o.github.io/Digital-Marketing-HomePage/).
+Check out the live demo [here](https://ashish-digital-marketing.netlify.app/)/).
 
 ## Installation
 
