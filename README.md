@@ -24,4 +24,4 @@ To run this project locally, follow these step:
   ```
   Now use the live server extension to run locally.
 
-_Made by Z3RO-O_
+_Made by ASHUU04_
